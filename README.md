@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img alt="svelte-mindmap" src="https://raw.githubusercontent.com/heithemmoumni/svelte-mindmap/master/media/mindmap.png?token=AENYSW22B5IXPXTSCZCBVIC52BZU2" />
+  <img alt="svelte-mindmap" src="https://raw.githubusercontent.com/heithemmoumni/svelte-mindmap/master/media/mindmap.png" />
 </p>
 
 
