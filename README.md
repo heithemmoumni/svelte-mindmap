@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img alt="svelte-mindmap" src="https://raw.githubusercontent.com/heithemmoumni/svelte-mindmap/master/media/mindmap.png?token=AENYSW2GYHZZRATQ3GQTYCS52BTE2" />
+  <img alt="svelte-mindmap" src="https://raw.githubusercontent.com/heithemmoumni/svelte-mindmap/master/media/mindmap.png?token=AENYSW22B5IXPXTSCZCBVIC52BZU2" />
 </p>
 
 
@@ -27,8 +27,8 @@ import Mindmap from 'svelte-mindmap';
 ```html
 let map = {
   title: null,
-	nodes: [],
-	connections: []
+  nodes: [],
+  connections: []
 }
 
 <Mindmap 
