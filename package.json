@@ -1,6 +1,6 @@
 {
   "name": "svelte-mindmap",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "SvelteMindmap is a svelte component for mindnode maps",
   "main": "MindMap.svelte",
   "dependencies": {
