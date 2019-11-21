@@ -2,6 +2,9 @@
 
 > SvelteMindmap is a svelte component for mindnode maps inspired by [react-mindmap](https://github.com/learn-anything/react-mindmap).
 
+![MIT License](https://badgen.net/badge/license/MIT/blue "MIT License")
+[![view on npm](http://img.shields.io/npm/v/vue-dynamic-star-rating.svg?colorB=red)](https://www.npmjs.com/package/svelte-mindmap)
+
 
 
 <p align="center">
