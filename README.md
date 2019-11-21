@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img alt="svelte-mindmap" src="https://raw.githubusercontent.com/heithemmoumni/svelte-mindmap/master/media/mindmap.png" />
+  <img alt="svelte-mindmap" src="https://raw.githubusercontent.com/heithemmoumni/svelte-mindmap/master/mindmap.png" />
 </p>
 
 
@@ -110,28 +110,11 @@ Here's a list of all CSS classes for styling:
 - **.mindmap-connection**: `path` element for each connection;
 - **.mindmap-emoji**: `img` tag for emoji
 
-## Development
 
-### Launch visual tests
+Feedback would be much appreciated, questions, suggestions, issues are more than welcome.
 
-```bash
-npm run dev
-```
+---
 
-### Launch Karma with coverage
+If you like to support my open-source contributions and feeling generous, feel free to:
 
-```bash
-npm run dev:coverage
-```
-
-### Build
-
-Bundle the js and css of to the `dist` folder:
-
-```bash
-npm run build
-```
-
-## License
-
-[MIT](http://opensource.org/licenses/MIT)
+<a href="https://www.buymeacoffee.com/Zukzhjx" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
