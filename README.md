@@ -4,6 +4,7 @@
 
 ![MIT License](https://badgen.net/badge/license/MIT/blue "MIT License")
 [![view on npm](https://img.shields.io/npm/v/svelte-mindmap.svg?colorB=red)](https://www.npmjs.com/package/svelte-mindmap)
+ [![Svelte v3](https://img.shields.io/badge/svelte-v3-blueviolet.svg)](https://svelte.dev)
 
 
 
