@@ -16,7 +16,7 @@
     d3PanZoom,
     onTick
   } from "./utils/d3";
-
+  import './app.css'
   import { getDimensions, getViewBox } from "./utils/dimensions";
   import subnodesToHTML from "./utils/subnodesToHTML";
   import nodeToHTML from "./utils/nodeToHTML";
@@ -138,10 +138,6 @@
     renderMap();
   });
 </script>
-
-<style>
-
-</style>
 
 <div>
   {#if map.title}
